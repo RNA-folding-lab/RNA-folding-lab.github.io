@@ -63,6 +63,6 @@ We are grateful for funding from the National Natural Science Foundation of Chin
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 410px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research center.png" style="width: 310px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 310px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research center.png" style="width: 250px">
 </figure>
