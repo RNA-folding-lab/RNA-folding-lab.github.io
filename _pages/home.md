@@ -53,7 +53,7 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Wuhan Textile Universit](http://www.wtu.edu.cn). Our aim is to explore and understand RNA 3D structure folding. To this end, we develop physics-based models to predict/evaluate 3D structures/stability for RNAs in ion solutions (see [Research](research)). 
+We are a dynamic research group, at the [Wuhan Textile University](http://www.wtu.edu.cn). Our aim is to explore and understand RNA 3D structure folding. To this end, we develop physics-based models to predict/evaluate 3D structures/stability for RNAs in ion solutions (see [Research](research)). 
 
 We are grateful for funding from the National Natural Science Foundation of China, the Department of Education of Hubei Province, the Natural Science Foundation of Hubei Province, and Wuhan Texitile University.
 
