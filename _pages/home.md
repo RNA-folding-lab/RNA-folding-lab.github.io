@@ -9,7 +9,7 @@ permalink: /
 **RNA Folding Lab: Our group focus on the mechanism of RNA folding and tools/models for RNA 3D structure prediction and evaluation** 
 
 <!-- HTML -->
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -22,7 +22,7 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner">
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2024-nature.png" alt="Slide 1" />
         </div>
