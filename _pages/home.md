@@ -14,7 +14,7 @@ permalink: /
     object-fit: contain; /* 保持比例，不裁剪 */
     background-color: #f0f0f0; /* 如果你想设置填充空白部分的背景颜色 */
 }
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -27,7 +27,7 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2024-nature.png" alt="Slide 1" />
         </div>
@@ -43,18 +43,18 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2024-Molecules.png" alt="Slide 5" />
         </div>       
-         <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2023-cgRNASP.png" alt="Slide 6" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 
 
@@ -68,7 +68,7 @@ We are grateful for funding from the National Natural Science Foundation of Chin
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-Bio.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 220px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-Bio.png" style="width: 220px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research center.png" style="width: 150px">
 </figure>
