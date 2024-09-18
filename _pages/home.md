@@ -8,7 +8,12 @@ permalink: /
 
 **RNA Folding Lab: Our group focus on the mechanism of RNA folding and tools/models for RNA 3D structure prediction and evaluation** 
 
-
+.carousel-inner img {
+    width: 100%; /* 图片宽度始终100% */
+    height: 400px; /* 统一图片高度 */
+    object-fit: contain; /* 保持比例，不裁剪 */
+    background-color: #f0f0f0; /* 如果你想设置填充空白部分的背景颜色 */
+}
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -63,6 +68,7 @@ We are grateful for funding from the National Natural Science Foundation of Chin
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 310px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research center.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-logo-2.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/WTU-Bio.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research center.png" style="width: 150px">
 </figure>
