@@ -8,12 +8,7 @@ permalink: /
 
 **RNA Folding Lab: Our group focus on the mechanism of RNA folding and tools/models for RNA 3D structure prediction and evaluation** 
 
-.carousel-inner img {
-    width: 100%; /* 图片宽度始终100% */
-    height: 400px; /* 统一图片高度 */
-    object-fit: contain; /* 保持比例，不裁剪 */
-    background-color: #f0f0f0; /* 如果你想设置填充空白部分的背景颜色 */
-}
+<!-- HTML -->
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -56,6 +51,24 @@ permalink: /
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+<!-- CSS -->
+<style>
+.carousel-inner {
+    height: 400px; /* 设置固定高度 */
+}
+
+.carousel-inner img {
+    width: 100%; /* 图片宽度始终100% */
+    height: 100%; /* 图片高度100%以填满容器 */
+    object-fit: contain; /* 保持图片比例，不裁剪 */
+    background-color: #f0f0f0; /* 空白部分背景颜色 */
+}
+
+.carousel-item {
+    height: 100%; /* 固定高度 */
+}
+</style>
 
 
 We are a dynamic research group, at the [Wuhan Textile University](http://www.wtu.edu.cn). Our aim is to explore and understand RNA 3D structure folding. To this end, we develop physics-based models to predict/evaluate 3D structures/stability for RNAs in ion solutions (see [Research](research)). 
