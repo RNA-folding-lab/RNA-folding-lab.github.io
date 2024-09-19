@@ -1,8 +1,7 @@
-
 - title: "RNA-MobiSeq: Deep mutational scanning and mobility-based selection for RNA base-pairing and tertiary structure inference"
   image: 2024-nature.png
   description: Here, we coupled deep mutational scanning with mobility-based selection to separate structurally stable from nonstable RNA variants. The subsequent high-throughput sequencing allows the detection of the covariational signals of key secondary and tertiary base pairs with significantly improved, RNA-specific, unsupervised analysis of covariation-induced deviation of activity (CODA2) and amplification of these signals by Monte-Carlo simulated annealing. The resulting base-pairing structures can serve as the restraints for final energy-based structure predictions. This MobiSeq technique was tested on four structurally different RNAs. The results show that the detection of tertiary base pairs by MobiSeq allows reasonably accurate prediction of RNA tertiary structures. The proposed method should be useful for structural inference and improved mechanistic understanding of all RNAs with detectable changes in mobility due to deleterious mutations.  
-  authors: Jinle Tang, Yazhou Shi, Zhe Zhang, Dailin Luo, Jian Zhan*, and Yaoqi Zhou*
+  authors: Jinle Tang, Yazhou Shi, Zhe Zhang, Dailin Luo, Jian Zhan, and Yaoqi Zhou
   link:
     url: "https://doi.org/10.1101/2024.02.21.581340"
     display: BioRxiv (2024)
@@ -61,7 +60,7 @@
 - title: "Ab initio predictions for 3D structure and stability of single- and double-stranded DNAs in ion solutions"
   image: 2022-PLoS.png
   description: In this work, we present acoarse-grained (CG) model for DNA based on the RNA CG model proposed by us, topredict 3D structures and stability for both dsDNA and ssDNA from the sequence. Combined with aMonte Carlo simulated annealing algorithm and CG force fields involving the sequence-dependentbase-pairing /stacking interactions and an implicit electrostatic potential, the present model successfully folds 20 dsDNAs (�52nt) and 20 ssDNAs (�74nt) into the corresponding native-like structures just from their sequences, with an overall mean RMSD of3.4Å from the experimental structures. For DNAs with various lengths and sequences, the present model can make reliable predictions on stability.
-  authors: Zi-Chun Mu, Ya-Lan Tan, Ben-Gong Zhang,J ie Liu, Ya-Zhou Shi*
+  authors: Zi-Chun Mu, Ya-Lan Tan, Ben-Gong Zhang,J ie Liu, Ya-Zhou Shi
   link:
     url: "https://www.nature.com/articles/s41563-023-01497-1"
     display: PLoS Comput Biol18(10), e1010501 (2022).
@@ -71,9 +70,9 @@
 - title: "rsRNASP: A residue-separation-based statistical potential for RNA 3D structure evaluation"
   image: rsRNASP-flowchart.png
   description: In this work, we have developed an all-atom distance-dependent statistical potential based on residue separation for RNA 3D structure evaluation, namely rsRNASP, which is composed of short- and long-ranged potentials distinguished by residue separation. The extensive examinations against available RNA test datasets show that rsRNASP has apparently higher performance than the existing statistical potentials for the realistic test datasets with large RNAs from structure prediction models, including the newly released RNA-Puzzles dataset, and is comparable to the existing top statistical potentials for the test datasets with small RNAs or near-native decoys..
-  authors: Ya-Lan Tan, Xunxun Wang, Ya-Zhou Shi, Wenbing Zhang*, and Zhi-Jie Tan*
+  authors: Ya-Lan Tan, Xunxun Wang, Ya-Zhou Shi, Wenbing Zhang, and Zhi-Jie Tan
   link:
-    url: https://doi.org/10.1016/j.bpj.2021.11.016
+    url: "https://doi.org/10.1016/j.bpj.2021.11.016"
     display: Biophysical Journal 21, 142–156 (2022)
   highlight: 1
   news2: See [reports](https://doi.org/10.1016/j.bpj.2021.12.004)
@@ -131,7 +130,7 @@
 - title: "Predicting 3D structure and stability of RNA pseudoknots in monovalent and divalent ion solutions"
   image: 2019-PLoS.png
   description: In the work, we employed our previously developed coarse-grained model with implicit salt to make extensive predictions and comprehensive analyses on the 3D structures and stability for RNA pseudoknots in monovalent/divalent ion solutions. The comparisons with available experimental data show that our model can successfully predict the 3D structures of RNA pseudoknots from their sequences, and can also make reliable predictions for the stability of RNA pseudoknots with different lengths and sequences over a wide range of monovalent/divalent ion concentrations. Furthermore, we made comprehensive analyses on the unfolding pathway for various RNA pseudoknots in ion solutions.
-  authors: Ya-Zhou Shi,Lei Jin,Chen-Jie Feng,Ya-Lan Tan,Zhi-Jie Tan*
+  authors: Ya-Zhou Shi,Lei Jin,Chen-Jie Feng,Ya-Lan Tan,Zhi-Jie Tan
     url: "https://doi.org/10.1371/journal.pcbi.1006222"
     display: PLoS Comput Biol14(6), e1006222.(2019)
   highlight: 1
