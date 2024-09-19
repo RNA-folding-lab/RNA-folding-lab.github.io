@@ -1,5 +1,5 @@
 - date: "2024-09-01"
-  headline: "*Welcome new students*: Qianqian Xu (徐芊芊); !"
+  headline: "*Welcome new students*: Qianqian Xu (徐芊芊); xxx!"
 
 - date: "2024-08-30"
   headline: "**Congratulations:** Our new paper about *scRNA data analysis* is accepted by Front. Genet."
@@ -17,40 +17,24 @@
 - date: "2023-09-01"
   headline: "*Welcome new students*: Shasha Li (李莎莎); Hu Yang (杨虎); Zhikang Wang (万智康)!"
   
-- date: "2017-08-10"
-  headline: "Our paper is published in <a href='https://scipost.org/SciPostPhys.3.2.010/pdf'>SciPost Physics</a>."
+- date: "2023-07-14"
+  headline: "**Congratulations:** Our new review paper of *DNA modeling* is accepted by <a href='https://doi.org/10.3390/molecules28124833'>Molecules</a>."
 
-- date: "2017-01-27"
+- date: "2023-03-03"
   headline: |
-    "We are looking forward to co-hosting <a href='http://www.lorentzcenter.nl/lc/web/2017/877/info.php3?wsid=877&venue=Oort'>
-    the workshop on unconventional superconductivity</a> at the Lorentz center.
-    <img src='/images/newspic/LCposter.jpg' class='img-responsive' style='max-width: 192px' />"
+    "**Congratulations:** Our new review paper of *cgRNASP* is published by <a href='https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqad016/7069285'>NAR Genomics and Bioinformatics</a>.
+    <img src='/images/newspic/cgRNASP.png' class='img-responsive' style='max-width: 192px' />"
 
-- date: "2017-01-17"
-  headline: "Irene, Koen, Maarten and Milan will be at Physics@Veldhoven 2017. (Talk at PT6.1 and poster at P9.022)."
-
-- date: "2016-11-25"
+- date: "2022-09-27"
   headline: |
-    "We are part of a newly granted <a href='https://www.fom.nl/en/research/research-programmes/general-information/'>Vrije Programma</a>
-    on strange metals, together with the groups of <b> Hussey, Golden, vHeumen, Zaanen, Schalm, Stoof and Vandoren</b>,
-    see <a href='https://www.fom.nl/en/news/press-releases/2016/11/21/fom-awards-15-1-million-euros-to-highly-promising-research/'>press release</a>.
-    We also got a <a href='https://www.fom.nl/en/news/press-releases/2016/11/18/28634/'>Projectruimte</a>."
+    "**Congratulations:** Our new review paper of *DNA modeling* is accepted by <a href='https://doi.org/10.3390/molecules28124833'>PLoS Comput Biol</a>.
+    <img src='/images/newspic/DNA-PLoS.png' class='img-responsive' style='max-width: 192px' />"
 
-- date: "2016-09-19"
-  headline: |
-    "<b> Our first paper from Leiden is <a href='http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html'>online at Nature Physics</a>! </b>
-    <img src='/images/newspic/NewsNP.png' class='img-responsive' style='max-width: 192px' />"
+- date: "2022-09-01"
+  headline: "*Welcome new students*: Cheng Guo (郭成)!"
 
-- date: "2015-06-17"
-  headline: |
-    "<b> We win a Vidi grant: 800kEUR to invest in science! (<a href='http://www.news.leiden.edu/news-2015/5-vidis-for-leiden-reserachers.html'>Leiden news</a>,
-    <a href='http://www.fom.nl/live/english/news/archives/pressreleases2015/artikel.pag?objectnumber=297954'>FOM news item</a>) </b>"
+- date: "2022-07-14"
+  headline: "**Congratulations:** Our new paper of *RNA structure analysis* is accepted by <a href='https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2021.809082/full'>Frontiers in Bioinformatics</a>."
 
-- date: "2015-09-01"
-  headline: "Welcome Koen and Maarten: from Master- to PhD-students"
-
-- date: "2015-06-17"
-  headline: "We got our commercial STM from <a href='http://www.unisoku.com/'>Unisoku</a>, and we are already busy modifying."
-
-- date: "2015-01-01"
-  headline: "Welcome Irene, Gijsbert & Milan — <b> our lab is officially starting</b>!"
+- date: "2022-01-04"
+  headline: "**Congratulations:** Our new paper of *rsRNASP* is published by <a href='https://doi.org/10.1016/j.bpj.2021.11.016'>Biophysical Journal</a>."
