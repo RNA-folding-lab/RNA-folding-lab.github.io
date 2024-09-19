@@ -26,7 +26,7 @@ Here are some themes and techniques that we currently work on:
 
 **AI for RNA 3D structures**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/GNN-RNA.png){: style="width: 300px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop AI models such as Graph Neural Network for RNA 3D structure characterization, based on which we can combine our physical models to predict RNA 3D structure from sequence or design RNA sequence from bacbone structures. 
+One of the  projects back from our job-proposal is to develop AI models such as Graph Neural Network for RNA 3D structure characterization, based on which we can combine our physical models to predict RNA 3D structure from sequence or design RNA sequence from bacbone structures. 
 
 We also focus on RNA interactions with proteins, small molecules, and ions, as well as complex structure prediction.
 
