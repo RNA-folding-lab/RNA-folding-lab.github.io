@@ -134,7 +134,7 @@
     url: "https://doi.org/10.1371/journal.pcbi.1006222"
     display: PLoS Comput Biol14(6), e1006222.(2019)
   highlight: 1
-  news1:   See xxx.
+  news1: See xxx.
 
 - title: "Structure folding of RNA kissing complexes in salt solutions: predicting 3D structure, stability, and folding pathway."
   image: RNA.png
