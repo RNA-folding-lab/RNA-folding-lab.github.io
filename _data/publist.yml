@@ -132,6 +132,7 @@
   image: 2019-PLoS.png
   description: In the work, we employed our previously developed coarse-grained model with implicit salt to make extensive predictions and comprehensive analyses on the 3D structures and stability for RNA pseudoknots in monovalent/divalent ion solutions. The comparisons with available experimental data show that our model can successfully predict the 3D structures of RNA pseudoknots from their sequences, and can also make reliable predictions for the stability of RNA pseudoknots with different lengths and sequences over a wide range of monovalent/divalent ion concentrations. Furthermore, we made comprehensive analyses on the unfolding pathway for various RNA pseudoknots in ion solutions.
   authors: Ya-Zhou Shi,Lei Jin,Chen-Jie Feng,Ya-Lan Tan,Zhi-Jie Tan
+  link:
     url: "https://doi.org/10.1371/journal.pcbi.1006222"
     display: PLoS Comput Biol14(6) e1006222.(2019)
   highlight: 1
