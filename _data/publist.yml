@@ -8,6 +8,16 @@
     display: BioRxiv (2024)
   highlight: 1
 
+- title: "Coarse-grained modeling on sequence-dependent 3D structure size of single-stranded DNA in ion solutions"
+  image: RNA.png
+  description: 
+  authors: Yuan, J., Li, S., Tan, Y.-L., Zhang, B.-G. & Shi, Y.-Z. 
+  link:
+    url: "doi:10.23919/CCC63176.2024.10662479."  
+    display: CCC 6824–6829 (2024). 
+  highlight: 0
+  news2:
+
 - title: "ABC2A: A Straightforward and Fast Method for the Accurate Backmapping of RNA Coarse-Grained Models to All-Atom Structures."
   image: RNA.png
   description: 
