@@ -8,6 +8,16 @@
     display: BioRxiv (2024)
   highlight: 1
 
+- title: "scGRN-Entropy: Inferring cell differentiation trajectories using single-cell data and gene regulation network-based transfer entropy"
+  image: RNA.png
+  description: 
+  authors: Sun, R., Cao, W., Li, S.-X., Jiang, J., Shi, Y.-Z., & Zhang, B.-G. 
+  link:
+    url: "https://doi.org/10.1371/journal.pcbi.1012638"  
+    display: PLoS Computational Biology (2024). 
+  highlight: 0
+  news2:
+  
 - title: "Coarse-grained modeling on sequence-dependent 3D structure size of single-stranded DNA in ion solutions"
   image: RNA.png
   description: 
