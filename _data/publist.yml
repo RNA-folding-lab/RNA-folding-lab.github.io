@@ -8,10 +8,30 @@
     display: BioRxiv (2024)
   highlight: 1
 
+- title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
+  image: RNA.png
+  description: 
+  authors: Wang X, & Shi, Y.-Z*. 
+  link:
+    url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013346"  
+    display: PLoS Computational Biology (2025). 
+  highlight: 0
+  news2:
+
+  - title: "Advances in RNA contact prediction: a benchmark evaluation of computational methods"
+  image: RNA.png
+  description: 
+  authors: Tan Y.-L., Guo C., Xu J.-J, Shi Y.-Z* and Tan Z.-J*. 
+  link:
+    url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013346"  
+    display: PLoS Computational Biology (2025). 
+  highlight: 0
+  news2:
+  
 - title: "scGRN-Entropy: Inferring cell differentiation trajectories using single-cell data and gene regulation network-based transfer entropy"
   image: RNA.png
   description: 
-  authors: Sun, R., Cao, W., Li, S.-X., Jiang, J., Shi, Y.-Z., & Zhang, B.-G. 
+  authors: Sun, R., Cao, W., Li, S.-X., Jiang, J., Shi, Y.-Z.*, & Zhang, B.-G*. 
   link:
     url: "https://doi.org/10.1371/journal.pcbi.1012638"  
     display: PLoS Computational Biology (2024). 
@@ -21,7 +41,7 @@
 - title: "Coarse-grained modeling on sequence-dependent 3D structure size of single-stranded DNA in ion solutions"
   image: RNA.png
   description: 
-  authors: Yuan, J., Li, S., Tan, Y.-L., Zhang, B.-G. & Shi, Y.-Z. 
+  authors: Yuan, J., Li, S., Tan, Y.-L., Zhang, B.-G. & Shi, Y.-Z*. 
   link:
     url: "doi:10.23919/CCC63176.2024.10662479."  
     display: CCC 6824–6829 (2024). 
