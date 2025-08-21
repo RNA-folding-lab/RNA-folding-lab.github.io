@@ -18,6 +18,16 @@
   highlight: 0
   news2:
   
+- title: "Advances in RNA contact prediction: a benchmark evaluation of computational methods"
+  image: RNA.png
+  description: 
+  authors: Tan Y.-L., Guo C., Xu J.-J, Shi Y.-Z* and Tan Z.-J*.  
+  link:
+    url: "https://iopscience.iop.org/article/10.1088/1572-9494/addeb5"  
+    display: Communications in Theoretical Physics (2025). 
+  highlight: 0
+  news2:
+  
 - title: "scGRN-Entropy: Inferring cell differentiation trajectories using single-cell data and gene regulation network-based transfer entropy"
   image: RNA.png
   description: 
