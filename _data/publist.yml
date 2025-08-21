@@ -7,8 +7,8 @@
     url: "https://doi.org/10.1101/2024.02.21.581340"
     display: BioRxiv (2024)
   highlight: 1
-
-- title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
+  
+  - title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
   image: RNA.png
   description: 
   authors: Wang X, & Shi, Y.-Z*. 
@@ -17,9 +17,9 @@
     display: PLoS Computational Biology (2025). 
   highlight: 0
   news2:
-
+  
   - title: "Advances in RNA contact prediction: a benchmark evaluation of computational methods"
-  image: RNA.png
+  image: 
   description: 
   authors: Tan Y.-L., Guo C., Xu J.-J, Shi Y.-Z* and Tan Z.-J*. 
   link:
