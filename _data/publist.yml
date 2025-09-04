@@ -1,4 +1,3 @@
-
 - title: "RNA-MobiSeq: Deep mutational scanning and mobility-based selection for RNA base-pairing and tertiary structure inference"
   image: 2024-nature.png
   description: Here, we coupled deep mutational scanning with mobility-based selection to separate structurally stable from nonstable RNA variants. The subsequent high-throughput sequencing allows the detection of the covariational signals of key secondary and tertiary base pairs with significantly improved, RNA-specific, unsupervised analysis of covariation-induced deviation of activity (CODA2) and amplification of these signals by Monte-Carlo simulated annealing. The resulting base-pairing structures can serve as the restraints for final energy-based structure predictions. This MobiSeq technique was tested on four structurally different RNAs. The results show that the detection of tertiary base pairs by MobiSeq allows reasonably accurate prediction of RNA tertiary structures. The proposed method should be useful for structural inference and improved mechanistic understanding of all RNAs with detectable changes in mobility due to deleterious mutations.  
@@ -8,14 +7,14 @@
     display: BioRxiv (2024)
   highlight: 1
   
-  - title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
+- title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
   image: RNA.png
   description: 
-  authors: Wang X, & Shi, Y.-Z*. 
+  authors: Wang X, and Shi, Y.-Z*. 
   link:
-    url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013346"  
-    display: PLoS Computational Biology (2025). 
-  highlight: 0
+    url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013346"
+    display: PLoS Computational Biology (2025)
+  highlight: 0 
   news2:
   
 - title: "Advances in RNA contact prediction: a benchmark evaluation of computational methods"
