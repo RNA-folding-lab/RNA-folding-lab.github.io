@@ -54,7 +54,7 @@
 - name: Ziyan Yang (杨紫嫣)
   photo: rock.jpg
   duration: 2025 - 2028
-  info: Mater, RNA design
+  info: Mater, RNA design (AI + Physics)
   email: zyang@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
@@ -66,6 +66,16 @@
   photo: rock.jpg
   info: Master, RNA modeling with aids of RNA LM
   duration: 2025 - 2028
+  email: yxiong@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+  education3:
+
+  - name: Yan Zheng (郑颜)
+  photo: rock.jpg
+  info: B.S., RNA design
+  duration: 2025 - 
   email: yxiong@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
