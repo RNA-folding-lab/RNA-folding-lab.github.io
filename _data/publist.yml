@@ -16,7 +16,7 @@
     display: PLoS Computational Biology (2025)
   highlight: 0 
 
-  - title: "Branch-specific gene discovery in cell differentiation using multi-omics graph attention"
+- title: "Branch-specific gene discovery in cell differentiation using multi-omics graph attention"
   image: RNA.png
   description: 
   authors: Yin Y., Zhuang L., Wang Y., Shi Y.-Z., and Zhang B*. 
@@ -25,7 +25,7 @@
     display: PLoS Computational Biology (2025)
   highlight: 0 
 
-  - title: "KSRV: a Kernel PCA-Based framework for inferring spatial RNA velocity at single-cell resolution"
+- title: "KSRV: a Kernel PCA-Based framework for inferring spatial RNA velocity at single-cell resolution"
   image: RNA.png
   description: 
   authors: He Y., Jiang J., Qoi H., Shi Y.-Z.*, and Zhang B*. 
