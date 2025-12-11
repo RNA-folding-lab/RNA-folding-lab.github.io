@@ -15,7 +15,6 @@
     url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013346"
     display: PLoS Computational Biology (2025)
   highlight: 0 
-  news2:
 
   - title: "Branch-specific gene discovery in cell differentiation using multi-omics graph attention"
   image: RNA.png
@@ -25,7 +24,6 @@
     url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013664"
     display: PLoS Computational Biology (2025)
   highlight: 0 
-  news2:
 
   - title: "KSRV: a Kernel PCA-Based framework for inferring spatial RNA velocity at single-cell resolution"
   image: RNA.png
@@ -35,7 +33,6 @@
     url: "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1695803/full"
     display: Frontiers in Genetics (2025)
   highlight: 0 
-  news2:
   
 - title: "Advances in RNA contact prediction: a benchmark evaluation of computational methods"
   image: RNA.png
@@ -45,7 +42,6 @@
     url: "https://iopscience.iop.org/article/10.1088/1572-9494/addeb5"  
     display: Communications in Theoretical Physics (2025). 
   highlight: 0
-  news2:
   
 - title: "scGRN-Entropy: Inferring cell differentiation trajectories using single-cell data and gene regulation network-based transfer entropy"
   image: RNA.png
@@ -55,7 +51,6 @@
     url: "https://doi.org/10.1371/journal.pcbi.1012638"  
     display: PLoS Computational Biology (2024). 
   highlight: 0
-  news2:
   
 - title: "Coarse-grained modeling on sequence-dependent 3D structure size of single-stranded DNA in ion solutions"
   image: RNA.png
@@ -65,7 +60,6 @@
     url: "doi:10.23919/CCC63176.2024.10662479."  
     display: CCC 6824–6829 (2024). 
   highlight: 0
-  news2:
 
 - title: "ABC2A: A Straightforward and Fast Method for the Accurate Backmapping of RNA Coarse-Grained Models to All-Atom Structures."
   image: RNA.png
@@ -75,7 +69,6 @@
     url:   
     display: Molecules 29, 1244 (2024). 
   highlight: 0
-  news2:
 
 - title: "WF-Velo: A New Method for RNA Velocity Analysis Based on Single-Cell Data"
   image: RNA.png
@@ -85,7 +78,6 @@
     url: "https://ieeexplore.ieee.org/abstract/document/10606718"
     display: DDCLS (2024) 
   highlight: 0
-  news2:
 
 - title: "MLBKFD: Probabilistic Model Methods to Infer Pseudo Trajectories from Single-cell Data."
   image: RNA.png
@@ -95,7 +87,6 @@
     url:   
     display: Journal of Computational Biophysics and Chemistry (2024).  
   highlight: 0
-  news2:
 
 - title: "Computational Modeling of DNA 3D Structures: From Dynamics and Mechanics to Folding."
   image: RNA.png
@@ -105,7 +96,6 @@
     url:   
     display: Molecules 28, 4833 (2023). 
   highlight: 0
-  news2:
 
 - title: "cgRNASP: coarse-grained statistical potentials with residue separation for RNA structure evaluation."
   image: RNA.png
@@ -115,7 +105,6 @@
     url:   
     display: NAR Genomics and Bioinformatics 5, (2023). 
   highlight: 0
-  news2:
 
 - title: "Ab initio predictions for 3D structure and stability of single- and double-stranded DNAs in ion solutions"
   image: 2022-PLoS.png
@@ -145,7 +134,6 @@
     url:   
     display: Front. Bioinform. 1, (2022). 
   highlight: 0
-  news2:
 
 - title: "Imputation Methods for scRNA Sequencing Data. "
   image: RNA.png
@@ -165,7 +153,6 @@
     url:   
     display: Front. Mol. Biosci. 8, (2021).  
   highlight: 0
-  news2:
 
 - title: "SS-RNN: A Strengthened Skip Algorithm for Data Classification Based on Recurrent Neural Networks."
   image: RNA.png
@@ -175,7 +162,6 @@
     url:   
     display: Front. Genet. 12, (2021). 
   highlight: 0
-  news2:
 
 - title: "An Integrated Tool for RNA 3D Structure Prediction and Analysis."
   image: RNA.png
@@ -185,7 +171,6 @@
     url:   
     display: CCDC 4293–4297 (2021). 
   highlight: 0
-  news2:
 
 - title: "Predicting 3D structure and stability of RNA pseudoknots in monovalent and divalent ion solutions"
   image: 2019-PLoS.png
@@ -195,7 +180,6 @@
     url: "https://doi.org/10.1371/journal.pcbi.1006222"
     display: PLoS Comput Biol14(6) e1006222.(2019)
   highlight: 1
-  news1: 
 
 - title: "Structure folding of RNA kissing complexes in salt solutions: predicting 3D structure, stability, and folding pathway."
   image: RNA.png
@@ -205,7 +189,6 @@
     url:   
     display: RNA 25, 1532–1548 (2019). 
   highlight: 0
-  news2:
 
 - title: "3D structure stability of the HIV-1 TAR RNA in ion solutions: A coarse-grained model study."
   image: RNA.png
@@ -215,7 +198,6 @@
     url:   
     display: The Journal of Chemical Physics 151, (2019).
   highlight: 0
-  news2:
 
 - title: "Modeling Structure, Stability, and Flexibility of Double-Stranded RNAs in Salt Solutions"
   image: RNA.png
@@ -225,7 +207,6 @@
     url:   
     display: Biophysical Journal 115, 1403–1416 (2018). 
   highlight: 0
-  news2:
 
 - title: "Traveling Wave Solutions of Two Nonlinear Wave Equations by (G/G)-Expansion Method"
   image: RNA.png
@@ -235,7 +216,6 @@
     url: "https://onlinelibrary.wiley.com/doi/abs/10.1155/2018/8583418"
     display: Advances in Mathematical Physics 2018, 8583418 (2018).
   highlight: 0
-  news2:
 
 - title: "3D structure stability of RNA hairpin controlled by loop size"
   image: RNA.png
@@ -244,7 +224,6 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7978407  
     display: 2017 29th Chinese Control And Decision Conference (CCDC)
-  news2:
 
 - title: "Predicting 3D Structure, Flexibility, and Stability of RNA Hairpins in Monovalent and Divalent Ion Solutions."
   image: RNA.png
@@ -254,7 +233,6 @@
     url:   
     display: Biophysical Journal 109, 2654–2665 (2015). 
   highlight: 0
-  news2:
 
 - title: "A coarse-grained model with implicit salt for RNAs: Predicting 3D structure, stability and salt effect"
   image: RNA.png
@@ -264,4 +242,3 @@
     url:   
     display: The Journal of Chemical Physics 141, (2014). 
   highlight: 0
-  news2:
