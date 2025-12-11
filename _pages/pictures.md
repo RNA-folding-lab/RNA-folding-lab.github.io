@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "RNA-folding Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "RNA-folding Lab -- Pictures"
 permalink: /pictures/
 ---
 
