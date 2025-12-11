@@ -1,14 +1,3 @@
-- name: Cheng Guo (郭成)
-  photo: rock.jpg
-  duration: 2022 - 2025
-  info: Mater, RNA contact prediction
-  email: cguo@wtu.edu.cn
-  number_educ: 1
-  education1: B.S., Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
-
 - name: Shasha Li (李莎莎)
   photo: rock.jpg
   info: Master, RNA coaxil-stacking prediction
@@ -62,21 +51,22 @@
   education2: 
   education3:
 
-- name: 郭诗
+- name: Ziyan Yang (杨紫嫣)
   photo: rock.jpg
-  info: Bachelor, AI for RNA structure
-  duration: 2022 - 2025
-  email: chatzopoulos@Physics.LeidenUniv.nl
+  duration: 2025 - 2028
+  info: Mater, RNA design
+  email: zyang@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
-  education2: 
+  education2:
   education3:
-
-- name: 张烨
+  education4:
+  
+- name: Yiting Xiong (熊祎婷)
   photo: rock.jpg
-  info: Bachelor, AI for RNA structure
-  duration: 2022 - 2025
-  email: chatzopoulos@Physics.LeidenUniv.nl
+  info: Master, RNA modeling with aids of RNA LM
+  duration: 2025 - 2028
+  email: yxiong@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
   education2: 
