@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "RNA-folding Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "RNA-folding Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
