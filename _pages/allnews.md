@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "RNA-folding Lab at Wuhan Textile University."
 sitemap: false
 permalink: /allnews.html
 ---
