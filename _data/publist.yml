@@ -1,7 +1,7 @@
 - title: "RNA-MobiSeq: Deep mutational scanning and mobility-based selection for RNA base-pairing and tertiary structure inference"
   image: 2024-nature.png
   description: Here, we coupled deep mutational scanning with mobility-based selection to separate structurally stable from nonstable RNA variants. The subsequent high-throughput sequencing allows the detection of the covariational signals of key secondary and tertiary base pairs with significantly improved, RNA-specific, unsupervised analysis of covariation-induced deviation of activity (CODA2) and amplification of these signals by Monte-Carlo simulated annealing. The resulting base-pairing structures can serve as the restraints for final energy-based structure predictions. This MobiSeq technique was tested on four structurally different RNAs. The results show that the detection of tertiary base pairs by MobiSeq allows reasonably accurate prediction of RNA tertiary structures. The proposed method should be useful for structural inference and improved mechanistic understanding of all RNAs with detectable changes in mobility due to deleterious mutations.  
-  authors: Jinle Tang, Yazhou Shi, Zhe Zhang, Dailin Luo, Jian Zhan, and Yaoqi Zhou
+  authors: Jinle Tang+, Yazhou Shi+, Zhe Zhang, Dailin Luo, Jian Zhan*, and Yaoqi Zhou*
   link:
     url: "https://doi.org/10.1101/2024.02.21.581340"
     display: BioRxiv (2024)
