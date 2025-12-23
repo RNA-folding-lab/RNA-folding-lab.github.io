@@ -7,6 +7,15 @@
     display: BioRxiv (2024)
   highlight: 1
   
+- title: "TiRNA: a coarse-grained method with temperature and ion effects for RNA structure folding and prediction"
+  image: RNA.png
+  description: 
+  authors: Wang X, Zhou Z, Tan, Y.-L*, Shi, Y.-Z*, and Tan, Z.-J*. 
+  link:
+    url: "10.1093/nar/gkaf1499"
+    display: Nucleic Acids Research (2026)
+  highlight: 1 
+  
 - title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
   image: RNA.png
   description: 
