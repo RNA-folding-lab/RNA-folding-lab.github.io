@@ -14,7 +14,7 @@
   link:
     url: "10.1093/nar/gkaf1499"
     display: Nucleic Acids Research (2026)
-  highlight: 1 
+  highlight: 0 
   
 - title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
   image: RNA.png
