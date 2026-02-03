@@ -15,7 +15,16 @@
     url: "10.1093/nar/gkaf1499"
     display: Nucleic Acids Research (2026)
   highlight: 0 
-  
+
+- title: "gCoSRNA: Generalizable Coaxial Stacking Prediction for RNA Junctions Using Secondary Structure"
+  image: RNA.png
+  description: 
+  authors: Li S, Xu Q, Tan, Y.-L*, Jiang J, Zhang B, and Shi, Y.-Z*. 
+  link:
+    url: "https://doi.org/10.3390/biom16020230"
+    display: Biomolecules (2026)
+  highlight: 0 
+
 - title: "3D structure and stability prediction of DNA with multi-way junctions in ionic solutions"
   image: RNA.png
   description: 
