@@ -16,6 +16,15 @@
     display: Nucleic Acids Research (2026)
   highlight: 0 
 
+- title: "R3J-AGNN: GNN-Based Prediction of Inter-Branch Angles in RNA Three-Way Junctions from Secondary Structure"
+  image: RNA.png
+  description: 
+  authors: Yang H, Qiao N, Zhang B, Shi Y.-Z*, and Tan Y.-L*. 
+  link:
+    url: "https://www.mdpi.com/2079-7737/15/6/457"
+    display: Biology (2026)
+  highlight: 0 
+
 - title: "gCoSRNA: Generalizable Coaxial Stacking Prediction for RNA Junctions Using Secondary Structure"
   image: RNA.png
   description: 
