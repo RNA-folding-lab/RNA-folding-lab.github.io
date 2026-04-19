@@ -25,6 +25,15 @@
     display: Biology (2026)
   highlight: 0 
 
+- title: "Spatial confinement reshapes the folding of an ion-stabilized DNA with a three-way junction"
+  image: RNA.png
+  description: 
+  authors: Wang X., and Shi Y.-Z*. 
+  link:
+    url: "https://www.sciencedirect.com/journal/chinese-journal-of-physics"
+    display: Chinese Journal of Physics (2026)
+  highlight: 0 
+
 - title: "gCoSRNA: Generalizable Coaxial Stacking Prediction for RNA Junctions Using Secondary Structure"
   image: RNA.png
   description: 
