@@ -60,14 +60,14 @@
 
 - name: Xin Ke (柯鑫)
   photo: rock.jpg
-  info: Master, RNA function
+  info: Master, RNA structure-function
   email: xke@wtu.edu.cn
   duration: 2026 - 2029
   number_educ: 1
   education1: B.S., Jianghan University
   education2:
 
-  - name: Yan Zheng (郑颜)
+- name: Yan Zheng (郑颜)
   photo: rock.jpg
   info: B.S., RNA design
   duration: 2025 - 
@@ -75,4 +75,3 @@
   number_educ: 1
   education1: B.S., Wuhan Textile University
   education2: 
-  education3:
