@@ -70,8 +70,36 @@
 - name: Yan Zheng (郑颜)
   photo: rock.jpg
   info: B.S., RNA design
-  duration: 2025 - 
+  duration: 2024 - 
   email: yzheng@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+
+
+- name: Yuxin Tao (陶雨欣)
+  photo: rock.jpg
+  info: B.S., RNA structure prediction
+  duration: 2024 - 
+  email: ytao@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+
+- name: Lu Shi (石璐)
+  photo: rock.jpg
+  info: B.S., RNA design
+  duration: 2024 - 
+  email: lshi@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+
+- name: Feiyang Yan (闫飞扬)
+  photo: rock.jpg
+  info: B.S., RNA structure prediction
+  duration: 2025 - 
+  email: ytao@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
   education2: 
