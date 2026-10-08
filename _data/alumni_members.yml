@@ -1,35 +1,3 @@
-- name: Shasha Li (李莎莎)
-  photo: rock.jpg
-  info: Master, RNA coaxil-stacking prediction
-  duration: 2023 - 2026
-  email: ssha@wtu.edu.cn
-  number_educ: 1
-  education1: B.S., Wuhan Textile University
-  education2: 
-  education3: 
-
-- name: Hu Yang (杨虎)
-  photo: rock.jpg
-  info: Master, RNA junction angle prediction
-  duration: 2023 - 2026
-  email: cho@physics.leidenuniv.nl
-  number_educ: 1
-  education1: B.S., Wuhan Textile University
-  education2: 
-  education3: 
-  education4: 
-
-- name: Zhikang Wang (万智康)
-  photo: rock.jpg
-  info: Master, RNA 3D structure analysis
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: 2023 - 2026
-  number_educ: 1
-  education1: B.S., Wuhan Textile University
-  education2:
-  education3:
-  education4:
-
 - name: Qianqian Xu (徐芊芊)
   photo: rock.jpg
   info: Master, AI for RNA design
@@ -72,11 +40,38 @@
   education2: 
   education3:
 
+  - name: Liu He (何柳)
+  photo: rock.jpg
+  info: Master, RNA-DNA hybrid modeling
+  duration: 2026 - 2029
+  email: lhe@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+
+- name: Yanfeng Zhu (朱炎锋)
+  photo: rock.jpg
+  info: Master, RNA/DNA 3D Structure scoring
+  duration: 2026 - 2029
+  email: yfzhu@wtu.edu.cn
+  number_educ: 1
+  education1: B.S., Wuhan Textile University
+  education2: 
+
+- name: Xin Ke (柯鑫)
+  photo: rock.jpg
+  info: Master, RNA function
+  email: xke@wtu.edu.cn
+  duration: 2026 - 2029
+  number_educ: 1
+  education1: B.S., Jianghan University
+  education2:
+
   - name: Yan Zheng (郑颜)
   photo: rock.jpg
   info: B.S., RNA design
   duration: 2025 - 
-  email: yxiong@wtu.edu.cn
+  email: yzheng@wtu.edu.cn
   number_educ: 1
   education1: B.S., Wuhan Textile University
   education2: 
